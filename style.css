@@ -732,6 +732,7 @@ footer .footer_right .footer_sns_box .footer_sns:active {
     width: 100vw;
   }
   .bottom_button button {
+    z-index: 999;
     display: flex;
     justify-content: center;
     width: 100%;

@@ -803,6 +803,7 @@ footer {
     display: block;
     width: 100vw;
     button {
+      z-index: 999;
       display: flex;
       justify-content: center;
       width: 100%;
