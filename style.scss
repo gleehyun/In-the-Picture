@@ -426,6 +426,7 @@ footer {
       }
       button {
          align-self: flex-start;
+         color: #fff;
       }
     }
     .footer_left_bottom {
@@ -811,6 +812,9 @@ footer {
       gap: 8px;
       font-size: 18px;
       border-radius: 8px 8px 0 0;
+      a {
+        color: #fff;
+      }
     }
   }
 }

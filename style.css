@@ -423,6 +423,7 @@ footer .footer_left .footer_left_top h1 {
 }
 footer .footer_left .footer_left_top button {
   align-self: flex-start;
+  color: #fff;
 }
 footer .footer_left .footer_left_bottom {
   font-size: 16px;
@@ -740,5 +741,8 @@ footer .footer_right .footer_sns_box .footer_sns:active {
     gap: 8px;
     font-size: 18px;
     border-radius: 8px 8px 0 0;
+  }
+  .bottom_button button a {
+    color: #fff;
   }
 }/*# sourceMappingURL=style.css.map */
