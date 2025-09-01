@@ -209,6 +209,9 @@ header #logo {
   font-size: 18px;
   font-weight: 400;
 }
+#sec01 .headline button {
+  color: #fff;
+}
 
 /*sec_02*/
 #sec02 {
